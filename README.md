@@ -1,7 +1,5 @@
 # Slipmat
 
-[Live](http://slipmat.xyz)
-
 ## Summary
 
 Slipmat is a near-faithful clone of [Discogs](http://discogs.com), the
